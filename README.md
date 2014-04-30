@@ -24,4 +24,4 @@ Yes, I'm the [New Tab Redirect](https://github.com/jimschubert/NewTab-Redirect) 
 
 # License
 
-[MIT License](http://bit.ly/mit-license)  
+[MIT License](http://bit.ly/mit-license)
